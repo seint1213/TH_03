@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/スクリーンショット_2015-09-29_3.27.44.png"  ]
+[preload  storage="./data/bgimage/スクリーンショット_2015-10-01_1.44.48.png"  ]
+[preload  storage="./data/bgimage/スクリーンショット_2015-10-01_1.58.32.png"  ]
+[preload  storage="./data/bgimage/kuro.png"  ]
+[return] 

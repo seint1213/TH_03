@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/史/zoukanmichi.png"  ]
+[preload  storage="./data/bgimage/史/syaremichi.png"  ]
+[preload  storage="./data/bgimage/史/syareotsu.png"  ]
+[preload  storage="./data/bgimage/史/umichi.png"  ]
+[preload  storage="./data/bgimage/史/umi.png"  ]
+[preload  storage="./data/bgimage/史/hasi.png"  ]
+[preload  storage="./data/bgimage/kuro.png"  ]
+[return]

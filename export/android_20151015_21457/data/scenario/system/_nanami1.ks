@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/菜波/hunatsuki.png"  ]
+[preload  storage="./data/bgimage/菜波/torii.png"  ]
+[preload  storage="./data/bgimage/菜波/kaidan.png"  ]
+[preload  storage="./data/bgimage/菜波/jinjya.png"  ]
+[preload  storage="./data/bgimage/菜波/michi2.png"  ]
+[preload  storage="./data/bgimage/菜波/kouan.jpg"  ]
+[return]

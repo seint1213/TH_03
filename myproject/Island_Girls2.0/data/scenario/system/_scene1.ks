@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/スクリーンショット.jpg"  ]
+[preload  storage="./data/bgimage/kuro.png"  ]
+[preload  storage="./data/bgimage/IMG_0793.jpg"  ]
+[preload  storage="./data/bgimage/marin.jpg"  ]
+[return]

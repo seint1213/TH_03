@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/菜波/hunatsuki.png"  ]
+[preload  storage="./data/bgimage/菜波/michi1.png"  ]
+[preload  storage="./data/bgimage/菜波/nanohan.png"  ]
+[preload  storage="./data/bgimage/菜波/tabu.png"  ]
+[preload  storage="./data/bgimage/菜波/hune.png"  ]
+[preload  storage="./data/bgimage/kuro.png"  ]
+[return]

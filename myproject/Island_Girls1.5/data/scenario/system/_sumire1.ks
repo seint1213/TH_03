@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/菫/IMG_0648.jpg"  ]
+[preload  storage="./data/bgimage/菫/IMG_0407.jpg"  ]
+[preload  storage="./data/bgimage/菫/IMG_6199.jpg"  ]
+[preload  storage="./data/bgimage/菫/IMG_5152.jpg"  ]
+[preload  storage="./data/bgimage/菫/IMG_9477.jpg"  ]
+[preload  storage="./data/bgimage/菫/IMG_8538.jpg"  ]
+[preload  storage="./data/bgimage/菫/IMG_3891.jpg"  ]
+[return]
